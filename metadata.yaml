@@ -1,0 +1,42 @@
+_repo: The-Morality-of-Woman-and-Other-Essays_34267
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Borthwick, Mamah Bouton
+    aliases:
+    - Borthwick, Martha
+    - Cheney, Martha Borthwick
+    - Cheney, Mamah
+    birthdate: 1869
+    deathdate: 1914
+    gutenberg_agent_id: '36911'
+    url: http://www.gutenberg.org/2009/agents/36911
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Key, Ellen
+    alias: Key, Ellen Karolina Sofia
+    birthdate: 1849
+    deathdate: 1926
+    gutenberg_agent_id: '502'
+    url: http://www.gutenberg.org/2009/agents/502
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
+description: ''
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34267'
+  lccn: '12000862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+tableOfContents: The morality of woman -- The woman of the future -- The conventional
+  woman.
+title: The Morality of Woman, and Other Essays
+url: http://www.gutenberg.org/ebooks/34267
