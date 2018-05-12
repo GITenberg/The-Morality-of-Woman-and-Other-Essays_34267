@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/502
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34267#The-Morality-of-Woman-and-Other-Essays
 gutenberg_issued: '2010-11-09'
 gutenberg_type: Text
 identifiers:
